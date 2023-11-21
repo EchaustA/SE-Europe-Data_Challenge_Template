@@ -1,3 +1,12 @@
+"""
+In this file you are tasked to monitor the performance of the pipeline at each stage. Some questions you might want to answer include:
+
+How many data points have we ingested?
+Do we loose any data during data processing?
+Which data have we lost?
+Why did we loose it? However, it is up to you to define the specific measures you are monitoring.\
+"""
+
 #!/bin/bash
 
 # You can run this script from the command line using:
